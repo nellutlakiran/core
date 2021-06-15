@@ -6074,11 +6074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kiran.kumar.nellutla\\source\\repos\\AspnetCoreView\\AspnetCoreView\\AspnetCoreView.csproj",
+      "projectUniqueName": "C:\\Users\\kiran.kumar.nellutla\\source\\repos\\Sanjay\\core\\AspnetCoreView\\AspnetCoreView.csproj",
       "projectName": "AspnetCoreView",
-      "projectPath": "C:\\Users\\kiran.kumar.nellutla\\source\\repos\\AspnetCoreView\\AspnetCoreView\\AspnetCoreView.csproj",
+      "projectPath": "C:\\Users\\kiran.kumar.nellutla\\source\\repos\\Sanjay\\core\\AspnetCoreView\\AspnetCoreView.csproj",
       "packagesPath": "C:\\Users\\kiran.kumar.nellutla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kiran.kumar.nellutla\\source\\repos\\AspnetCoreView\\AspnetCoreView\\obj\\",
+      "outputPath": "C:\\Users\\kiran.kumar.nellutla\\source\\repos\\Sanjay\\core\\AspnetCoreView\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kiran.kumar.nellutla\\AppData\\Roaming\\NuGet\\NuGet.Config",
