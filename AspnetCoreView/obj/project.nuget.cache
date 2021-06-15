@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f4t2kqRHNgDjDiBCRfqKxw7BKaPe8IjwdiTq7E7NHINRbsgXaEMZtGYYytcO/N48RjM4iBa3+OL+h6c5vI/4Mg==",
+  "dgSpecHash": "XK9cd2HLDikZJ0jIxTvkilEj23sSC2DZ53rK5GMtB0vBO6j+FQCW5f4v2k8eMIyYIuMc9sd46kTLDK5U5n+lCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kiran.kumar.nellutla\\source\\repos\\AspnetCoreView\\AspnetCoreView\\AspnetCoreView.csproj",
+  "projectFilePath": "C:\\Users\\kiran.kumar.nellutla\\source\\repos\\Sanjay\\core\\AspnetCoreView\\AspnetCoreView.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kiran.kumar.nellutla\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\kiran.kumar.nellutla\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
